@@ -7,6 +7,7 @@ Slaps a large notification on your screen when someone presses the doorbell (req
 <ul> 3. You are hiding in the back and nobody can find you </ul>
 <ul> 4. You have a weak heart and might die if someone come up on you</ul>
 
+Since we can't just jaunch our coworkers into space this will have to do for now.
 
 ### Other Ideas
 
