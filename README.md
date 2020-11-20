@@ -1,4 +1,4 @@
-# magic-doorbell
+# Maric Doorbell
 Slaps a large notification on your screen when someone presses the doorbell (requires Raspberry Pi)
 
 Since we can't just jaunch our coworkers into space this will have to do for now.
